@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rajyash-03/Weather-App/static/css/main.bd61d2a1.css",
+    "main.js": "/rajyash-03/Weather-App/static/js/main.13de30b6.js",
+    "static/media/coldhd.jpg": "/rajyash-03/Weather-App/static/media/coldhd.6029b717aec816d10a86.jpg",
+    "static/media/rain.jpg": "/rajyash-03/Weather-App/static/media/rain.09b5889721258522256c.jpg",
+    "static/media/scott-goodwill-7KrWmnpRafw-unsplash.jpg": "/rajyash-03/Weather-App/static/media/scott-goodwill-7KrWmnpRafw-unsplash.254aebb488c266f187a1.jpg",
+    "index.html": "/rajyash-03/Weather-App/index.html",
+    "main.bd61d2a1.css.map": "/rajyash-03/Weather-App/static/css/main.bd61d2a1.css.map",
+    "main.13de30b6.js.map": "/rajyash-03/Weather-App/static/js/main.13de30b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd61d2a1.css",
+    "static/js/main.13de30b6.js"
+  ]
+}
