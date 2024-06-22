@@ -1,4 +1,6 @@
 Developed a Weather app which fetches the weather reoprt of different locations using ReactJS
+Visit the site at: https://weather-app-0403.netlify.app/
+or  https://rajyash-03.github.io/Weather-App/
 
 # Getting Started with Create React App
 
