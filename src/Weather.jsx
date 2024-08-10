@@ -59,7 +59,7 @@ const Weather = () => {
     //  ?((weather.main.temp>19)?'app-warm' : 'app'): 'app'}> 
     <div className={
         (typeof weather.main != 'undefined' && typeof weather.weather[0].main != 'undefined') ? 
-            ((weather.main.temp > 19) ? 'app-warm' : 'app') + 
+            ((weather.main.temp > 20) ? 'app-warm' : 'app') + 
             ((weather.weather[0].main === 'Drizzlenp') ? ' rain' : '') : 
             'app'
     }>
